@@ -68,3 +68,5 @@ Bao gồm:
     + Dữ liệu có seasonality cực mạnh → yếu tố quyết định
     + Promotion có ảnh hưởng lớn đến doanh số
     + Model đơn giản + feature tốt > model phức tạp
+   
+File nộp sẽ được đặt tên là final_submission trong kaggle. 
